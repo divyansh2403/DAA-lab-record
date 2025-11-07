@@ -1,5 +1,3 @@
-# DAA-lab-record
-
 # DAA-Lab-Record
 
 ## 📘 About  
@@ -56,6 +54,7 @@ Have a reference lab record that can help during revision or further coursework.
 pgsql
 Copy code
 DAA-lab-record/
+
 ├── BubbleSort.cpp
 ├── insertionSort.cpp
 ├── quick_sort.cpp
@@ -68,6 +67,7 @@ DAA-lab-record/
 ├── LCS.cpp
 ├── NQueen.c
 └── README.md
+
 🤝 Contributing
 If you’d like to add more experiments (e.g., Merge Sort, Graph algorithms, Dynamic Programming problems) feel free to fork the repository and send a pull request.
 Make sure to:
